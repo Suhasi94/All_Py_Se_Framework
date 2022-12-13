@@ -1,0 +1,56 @@
+1668592401275	geckodriver	INFO	Listening on 127.0.0.1:56224
+1668592542255	geckodriver	INFO	Listening on 127.0.0.1:56333
+1668592545348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileRdJSqf"
+1668592580937	geckodriver	INFO	Listening on 127.0.0.1:56467
+1668592584037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyDCDfp"
+1668592584519	Marionette	INFO	Marionette enabled
+1668592584524	Marionette	INFO	Listening on port 56479
+Read port: 56479
+1668592584756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileyDCDfp\\search.json.mozlz4", (void 0)))
+1668592591958	Marionette	INFO	Stopped listening on port 56479
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+[Parent 16576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 762: Error: Connection closed before committing the transaction.
+1668592714200	geckodriver	INFO	Listening on 127.0.0.1:56622
+1668592717273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilei7tquo"
+1668592717696	Marionette	INFO	Marionette enabled
+1668592717699	Marionette	INFO	Listening on port 56634
+Read port: 56634
+1668592717882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilei7tquo\\search.json.mozlz4", (void 0)))
+1668592725127	Marionette	INFO	Stopped listening on port 56634
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 762: Error: Connection closed before committing the transaction.
+1668594965825	geckodriver	INFO	Listening on 127.0.0.1:57159
+1668594968884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenDPKc8"
+1668594969409	Marionette	INFO	Marionette enabled
+1668594969412	Marionette	INFO	Listening on port 57171
+Read port: 57171
+1668594969868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilenDPKc8\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+1668594977129	Marionette	INFO	Stopped listening on port 57171
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 997: Error: Connection is not open.
+1668596902835	geckodriver	INFO	Listening on 127.0.0.1:57385
+1668596905911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGwnPFi"
+1668596906458	Marionette	INFO	Marionette enabled
+1668596906464	Marionette	INFO	Listening on port 57397
+Read port: 57397
+1668596906973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileGwnPFi\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+1668596914408	Marionette	INFO	Stopped listening on port 57397
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 997: Error: Connection is not open.

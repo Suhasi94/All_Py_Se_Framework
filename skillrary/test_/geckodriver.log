@@ -1,0 +1,41 @@
+1667814157504	geckodriver	INFO	Listening on 127.0.0.1:61641
+1667814181655	geckodriver	INFO	Listening on 127.0.0.1:61667
+1667814229560	geckodriver	INFO	Listening on 127.0.0.1:61681
+1667816001750	geckodriver	INFO	Listening on 127.0.0.1:63422
+1667816107404	geckodriver	INFO	Listening on 127.0.0.1:63581
+1667816113085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiler4YwO1"
+1667816174317	geckodriver	INFO	Listening on 127.0.0.1:63910
+1667816177409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileMRK8tc"
+1667816178631	Marionette	INFO	Marionette enabled
+1667816178643	Marionette	INFO	Listening on port 63927
+Read port: 63927
+Read port: 63927
+1667816180129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileMRK8tc\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+1667816700046	geckodriver	INFO	Listening on 127.0.0.1:64216
+1667816705700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileM7tQs4"
+1667816706520	Marionette	INFO	Marionette enabled
+1667816706528	Marionette	INFO	Listening on port 64236
+Read port: 64236
+1667816706944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileM7tQs4\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+1667819184905	geckodriver	INFO	Listening on 127.0.0.1:49398
+1667819187962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTEsZT5"
+1667819189483	Marionette	INFO	Marionette enabled
+1667819189498	Marionette	INFO	Listening on port 49676
+Read port: 49676
+Read port: 49676
+1667819190810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTEsZT5\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.actitime.com."
